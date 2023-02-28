@@ -1,0 +1,32 @@
+2023-02-21 17:50:51,157 [INFO] Activator:179 - 
+
+
+2023-02-21 17:50:51,158 [INFO] Activator:180 - !SESSION log4j initialized
+2023-02-21 17:50:54,540 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Feb 21, 2023 5:50:54 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-02-21 17:50:54,550 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1598]
+2023-02-21 17:50:54,551 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-02-21 17:50:54,558 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Feb 21, 2023 5:50:54 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-02-21 17:50:54,560 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-02-21 17:50:54,560 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-02-22 19:46:20,123 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-02-22 19:46:38,479 [INFO] Activator:179 - 
+
+
+2023-02-22 19:46:38,480 [INFO] Activator:180 - !SESSION log4j initialized
+2023-02-22 19:46:49,078 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Feb 22, 2023 7:46:49 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-02-22 19:46:49,080 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1597]
+2023-02-22 19:46:49,080 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-02-22 19:46:49,082 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Feb 22, 2023 7:46:49 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-02-22 19:46:49,083 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-02-22 19:46:49,083 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-02-22 19:52:55,239 [INFO] Activator:179 - 
+
+
+2023-02-22 19:52:55,241 [INFO] Activator:180 - !SESSION log4j initialized
+2023-02-22 19:53:01,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Feb 22, 2023 7:53:01 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-02-22 19:53:01,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1598]
+2023-02-22 19:53:01,297 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-02-22 19:53:01,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Feb 22, 2023 7:53:01 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-02-22 19:53:01,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-02-22 19:53:01,300 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-02-22 19:59:54,473 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
