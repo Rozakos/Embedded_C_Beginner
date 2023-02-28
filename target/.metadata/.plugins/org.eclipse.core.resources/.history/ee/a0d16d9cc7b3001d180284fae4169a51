@@ -1,0 +1,25 @@
+#include <stdint.h>
+
+uint32_t *pClkCtrlReg =   (uint32_t*)0x40023830;
+uint32_t *pPortAModeReg = (uint32_t*)0x40020000;
+uint32_t *pPortAOutReg =  (uint32_t*)0x40020014;
+
+
+
+int main(void)
+{
+    *pClkCtrlReg = *pClkCtrlReg | 1;
+    *pPortAModeReg = *pPortAModeReg & ~( 3 << 10);
+    *pPortAModeReg = *pPortAModeReg | ( 1 << 10);
+    while (1){
+
+        *pPortAOutReg = *pPortAOutReg | ( 1 << 5);
+
+        for (uint32_t i = 0; i<=200000; i++);
+
+        *pPortAOutReg = *pPortAOutReg & ~( 1 << 5);
+
+        for (uint32_t i = 0; i<=200000; i++);
+    }
+
+}
